@@ -159,23 +159,28 @@ Screenshots demonstrating the application's functionality will be added here.
 
 ### 2. Admin Login
 
-<!-- Add screenshot: screenshots/admin-login.png -->
+<img width="1920" height="1080" alt="Index Page" src="https://github.com/user-attachments/assets/f471436e-b44f-4c30-9d98-5dd4f80f3e80" />
+
 
 ### 3. Member Management
 
-<!-- Add screenshot: screenshots/members.png -->
+<img width="1920" height="1080" alt="Manage Member" src="https://github.com/user-attachments/assets/7605c1fa-fd12-44e1-a2e2-117d282d0788" />
+
 
 ### 4. Coach Management
 
-<!-- Add screenshot: screenshots/coach.png -->
+<<img width="1920" height="1080" alt="Manage Trainer" src="https://github.com/user-attachments/assets/0e0c9eb6-ea2b-4deb-bb01-9b709578303b" />
+
 
 ### 5. Receptionist Management
 
-<!-- Add screenshot: screenshots/receptionist.png -->
+<img width="1920" height="1080" alt="Manage Gym" src="https://github.com/user-attachments/assets/e8d45e61-a8ae-4693-a274-d304309dcb7e" />
+
 
 ### 6. Billing Management
 
-<!-- Add screenshot: screenshots/billing.png -->
+<img width="1920" height="1080" alt="Manage Payment" src="https://github.com/user-attachments/assets/70a11893-f85b-44ea-b510-100e4fee4591" />
+
 
 ## 📚 Concepts Implemented
 
