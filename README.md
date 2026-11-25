@@ -213,6 +213,7 @@ Potential improvements include:
 Computer Science and Engineering Graduate
 
 GitHub: [@OwaisGit12](https://github.com/OwaisGit12)
+
 LinkedIn: [Connect with me](https://www.linkedin.com/in/syedowaisahmed)
 
 ---
